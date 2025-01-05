@@ -17,3 +17,7 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 http://extraott.com:80/live/6772191932/1654508883/62829.m3u8
 #EXTINF:-1 tvg-name="鳳凰資訊HD" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png" group-title="MYTV",凤凰资讯HD
 https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.imgur.com/zKdkZO0.jpg" group-title="MYTV",CNN INT
+https://stream1.freetv.fun/39c9454e706df0060b2cde0d4fdea09d93ffcf91fb43b08264a47673770e73f6.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera" tvg-logo="https://i.imgur.com/jefLWOo.png" group-title="MYTV",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
