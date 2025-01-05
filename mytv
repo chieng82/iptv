@@ -21,3 +21,5 @@ https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 https://stream1.freetv.fun/39c9454e706df0060b2cde0d4fdea09d93ffcf91fb43b08264a47673770e73f6.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera" tvg-logo="https://i.imgur.com/vVyi7t8.png" group-title="MYTV",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+#EXTINF:-1 tvg-id="8TV" tvg-logo="" group-title="MYTV",8TV
+https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master_720.m3u8?bpkio_serviceid=6c0958d82a830a02e2fe99cb3eff9bcf&bpkio_sessionid=&bpkio_sessionid=10e3f36d197-0d924fca-d8e0-4924-86cd-075463c4b4f7&category=all
