@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Phoenix info" tvg-logo="https://i.imgur.com/jefLWOo.png" group-title="MYTV",Phoenix info
-https://youtu.be/HFib76ySpbU
 #EXTINF:-1 tvg-id="NHK" tvg-logo="https://i.imgur.com/weh1itj.png" group-title="MYTV",NHK
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/y9tZxD8.png" group-title="MYTV",CNA
