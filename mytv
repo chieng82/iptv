@@ -8,7 +8,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #EXTINF:-1 tvg-id="TravelXP" tvg-logo="https://i.imgur.com/a8DHUCY.jpeg" group-title="MYTV",TravelXP
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBS" tvg-logo="https://i.imgur.com/d5ARTzy.png" group-title="MYTV",TVBS 
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 tvg-name="鳳凰資訊" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png" group-title="MYTV",凤凰资讯
 http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 #EXTINF:-1 tvg-name="鳳凰資訊HD" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png" group-title="MYTV",凤凰资讯HD
@@ -21,3 +21,5 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master_720.m3u8?bpkio_serviceid=6c0958d82a830a02e2fe99cb3eff9bcf&bpkio_sessionid=&bpkio_sessionid=10e3f36d197-0d924fca-d8e0-4924-86cd-075463c4b4f7&category=all
 #EXTINF:-1 tvg-id="Awani" tvg-logo="" group-title="MYTV",Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+#EXTINF:-1 tvg-id="三立国际台" tvg-logo="" group-title="MYTV",三立国际台
+http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
