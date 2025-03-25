@@ -21,5 +21,5 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master_720.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5&bpkio_sessionid=10c3b35c243-f9f10cd8-dd2b-42e9-93ed-33b6e81bb74b&category=all&mm_sp
 #EXTINF:-1 tvg-id="Awani" tvg-logo="" group-title="MYTV",Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
-#EXTINF:-1 tvg-id="三立国际台" tvg-logo="" group-title="MYTV",三立国际台
-http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+#EXTINF:-1 tvg-id="Discover" tvg-logo="" group-title="MYTV",Discovery
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd?cdjimddfpoafaomcagiofaonkjcmnand_playlist_index=3
