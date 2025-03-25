@@ -25,5 +25,5 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 http://extraott.com:80/live/6772191932/1654508883/191944.m3u8
 #EXTINF:-1 tvg-id="BBC Lifestyle" tvg-logo="" group-title="MYTV",BBC Lifestyle
 http://178.219.128.68:64888/BBCLIFEHD
-#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-logo="" group-title="MYTV",BBC Lifestyle
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="" group-title="MYTV",DISCOVERY
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
