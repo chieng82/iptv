@@ -23,3 +23,5 @@ https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master_720.m3u8?bpkio_s
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 #EXTINF:-1 tvg-id="Discover" tvg-logo="" group-title="MYTV",Discovery
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd?cdjimddfpoafaomcagiofaonkjcmnand_playlist_index=3
+#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-logo="" group-title="MYTV",BBC Lifestyle
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd?cdjimddfpoafaomcagiofaonkjcmnand_playlist_index=4
