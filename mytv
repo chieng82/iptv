@@ -18,7 +18,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_19
 #EXTINF:-1 tvg-id="Al Jazeera" tvg-logo="https://i.imgur.com/vVyi7t8.png" group-title="MYTV",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 tvg-id="8TV" tvg-logo="" group-title="MYTV",8TV
-https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master_720.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5&bpkio_sessionid=10c3b35c243-f9f10cd8-dd2b-42e9-93ed-33b6e81bb74b&category=all&mm_sp
+https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master_720.m3u8?bpkio_serviceid=6c0958d82a830a02e2fe99cb3eff9bcf&bpkio_sessionid=10e3a42d153-467e0ffa-8bf5-41dd-a162-70cb699b373b&category=all&mm_sp
 #EXTINF:-1 tvg-id="Awani" tvg-logo="" group-title="MYTV",Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 #EXTINF:-1 tvg-id="HGTV" tvg-logo="" group-title="MYTV",HGTV
