@@ -7,8 +7,8 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="TravelXP" tvg-logo="https://i.imgur.com/a8DHUCY.jpeg" group-title="MYTV",TravelXP
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBS" tvg-logo="https://i.imgur.com/d5ARTzy.png" group-title="MYTV",TVBS 
-http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 tvg-id="TVBS" tvg-logo="https://i.imgur.com/d5ARTzy.png" group-title="MYTV",三立新聞
+https://youtu.be/hGJkDZDchYI
 #EXTINF:-1 tvg-name="鳳凰資訊" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png" group-title="MYTV",凤凰资讯
 http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 #EXTINF:-1 tvg-name="鳳凰資訊HD" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png" group-title="MYTV",凤凰资讯HD
