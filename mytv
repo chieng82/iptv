@@ -22,7 +22,7 @@ https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_servi
 #EXTINF:-1 tvg-id="Awani" tvg-logo="" group-title="MYTV",Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 #EXTINF:-1 tvg-id="HGTV" tvg-logo="" group-title="MYTV",HGTV
-http://extraott.com:80/live/6772191932/1654508883/191944.m3u8
+https://youtu.be/sNV7UewvKfM
 #EXTINF:-1 tvg-id="BBC Lifestyle" tvg-logo="" group-title="MYTV",BBC Lifestyle
 http://178.219.128.68:64888/BBCLIFEHD
 #EXTINF:-1 tvg-id="BBC Earth" tvg-logo="" group-title="MYTV",BBC Earth
