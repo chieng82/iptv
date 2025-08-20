@@ -10,7 +10,7 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBS" tvg-logo="https://i.imgur.com/d5ARTzy.png" group-title="MYTV",三立新聞
 https://youtu.be/hGJkDZDchYI
 #EXTINF:-1 tvg-name="鳳凰資訊" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png" group-title="MYTV",凤凰资讯
-http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-name="鳳凰資訊HD" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png" group-title="MYTV",凤凰资讯HD
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.imgur.com/zKdkZO0.jpg" group-title="MYTV",CNN INT
