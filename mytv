@@ -24,5 +24,5 @@ https://stream1.freetv.fun/28a8e3a06a371a16e0f8d934015757c52c1dbbbef7e6de43d7845
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="CBS" tvg-logo="" group-title="MYTV",CBS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-id="HGTV" tvg-logo="" group-title="MYTV",HGTV
-https://stream1.freetv.fun/b9026d4d37d01291145a65768d4573231350cac5fd3b85607fd441385232ed68.m3u8
+#EXTINF:-1 tvg-id="ABC News" tvg-logo="" group-title="MYTV",ABC News
+http://41.205.93.154/ABC/index.m3u8
