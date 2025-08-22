@@ -20,8 +20,8 @@ http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 #EXTINF:-1 tvg-id="TVBS News" tvg-logo="" group-title="MYTV",TVBS News
 https://stream1.freetv.fun/28a8e3a06a371a16e0f8d934015757c52c1dbbbef7e6de43d7845c5a5d9b8443.ctv
-#EXTINF:-1 tvg-id="RT News" tvg-logo="" group-title="MYTV",RT News
-http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="SKY News" tvg-logo="" group-title="MYTV",SKY News
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 tvg-id="CBS" tvg-logo="" group-title="MYTV",CBS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="ABC News" tvg-logo="" group-title="MYTV",ABC News
