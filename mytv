@@ -8,7 +8,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #EXTINF:-1 tvg-id="TravelXP" tvg-logo="https://i.imgur.com/a8DHUCY.jpeg" group-title="MYTV",TravelXP
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBS" tvg-logo="https://i.imgur.com/d5ARTzy.png" group-title="MYTV",三立新聞
-https://youtu.be/hGJkDZDchYI
+https://anym3u8player.com/youtube.php/id/68fba39edbd30.m3u8
+#EXTINF:-1 tvg-id="TVBS" tvg-logo="https://i.imgur.com/d5ARTzy.png" group-title="MYTV",CGTN
+https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 #EXTINF:-1 tvg-name="鳳凰資訊" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png" group-title="MYTV",凤凰资讯
 https://anym3u8player.com/youtube.php/id/68faf5ef78cd1.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.imgur.com/zKdkZO0.jpg" group-title="MYTV",CNN INT
@@ -21,6 +23,8 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="ABC News" tvg-logo="" group-title="MYTV",ABC News
 http://41.205.93.154/ABC/index.m3u8
+#EXTINF:-1 tvg-id="ABC News" tvg-logo="" group-title="MYTV",NBC News
+https://anym3u8player.com/youtube.php/id/68fba4132e0e1.m3u8
 #EXTINF:-1 group-title="siaranMy" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1
 https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 #EXTINF:-1 group-title="siaranMy" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2
