@@ -12,7 +12,7 @@ https://anym3u8player.com/youtube.php/id/68fba39edbd30.m3u8
 #EXTINF:-1 tvg-id="TVBS" tvg-logo="https://i.imgur.com/d5ARTzy.png" group-title="MYTV",CGTN
 https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 #EXTINF:-1 tvg-name="鳳凰資訊" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png" group-title="MYTV",凤凰资讯
-https://anym3u8player.com/youtube.php/id/68faf5ef78cd1.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761493627/ei/G-79aITSGK-JvdIP3t_RsA4/ip/92.205.3.32/id/fN9uYWCjQaw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5QboAUaHkD0c5XdQLXk5kPHEBMOQvojLvlgvmSFIF9hoWazDnwZIwGItWbAlO42JmM3EFabBLLg/spc/6b0G_Bjs7tyV5ruUBl-0f32uh1QZNuUJVEWU0Q0hjNS6_UHGELZxs9-1IhjPiYb88DENf42iTKY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgfhKY24MJdyZR-DkkWts-WGBv7lZ-qFOaPE3K2iKhsngCIQDV36qf5sd5XCKqWZmAYVpHgwG238t62n6glOjosl6qmw%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.imgur.com/zKdkZO0.jpg" group-title="MYTV",CNN INT
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera" tvg-logo="https://i.imgur.com/vVyi7t8.png" group-title="MYTV",Al Jazeera
