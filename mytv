@@ -12,8 +12,7 @@ https://anym3u8player.com/youtube.php/id/68fba39edbd30.m3u8
 #EXTINF:-1 tvg-id="TVBS" tvg-logo="https://i.imgur.com/d5ARTzy.png" group-title="MYTV",CGTN
 https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 #EXTINF:-1 tvg-name="鳳凰資訊" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png" group-title="MYTV",凤凰资讯
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1769852004/ei/BHh9abqfCse_mLAPpKrr-Ak/ip/104.28.251.182/id/fN9uYWCjQaw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-oj1gi5-5b.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AW-iu_oGjltmjwyfzI_kp1EiQ-6sN0hu-yUKcWSh7DjozQzdW6atHOsRxcAxjfA80z-punAJHw0WXy4F/spc/q5xjPB-8Yx-mBOVmYkLu/vprv/1/playlist_type/DVR/initcwndbps/2665000/met/1769830404,/mh/Qd/mm/44/mn/sn-oj1gi5-5b/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565681,51580968/mt/1769829874/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJEij0EwRgIhAI52KQR4UB6DsoNgXvtouNGq7xIYJDOjOhEYoSUXxS4EAiEAssYbJvYVu_VyUvK4_cs5SZpm41q8FkrQTPKSBheDa6c%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAIzMswNFS_XfYpyRMsqjXmoGFviYNfPROsmnI-P8OfCjAiB6ZKvGh9n3OHwKNbLAejr-enfB5P9XtUZ9uPuOAt9VcQ%3D%3D/playlist/index.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.imgur.com/zKdkZO0.jpg" group-title="MYTV",CNN INT
+http://r.jdshipin.com/0Rp07
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera" tvg-logo="https://i.imgur.com/vVyi7t8.png" group-title="MYTV",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
