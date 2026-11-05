@@ -1215,4 +1215,5 @@ https://iptv.aibo.lol/hk/tvbxh.m3u8
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Astro Awani" tvg-name="Astro Awani" group-title="港澳台",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-
+#EXTINF:-1 tvg-id="Asian Food Network" tvg-name="Asian Food Network" group-title="港澳台",Asian Food Network
+https://freem3u.xyz/api/live/play.m3u8?vid=215
